@@ -1,0 +1,44 @@
+@use 'mixins';
+
+footer {
+  width: 100dvw;
+  min-height: 100dvh;
+  padding: var(--fs-xxl);
+  position: relative;
+}
+
+@include mixins.media-portrait {
+  footer {
+    display: flex;
+    flex-direction: column;
+    min-height: 33dvh;
+    height: auto;
+  }
+
+  footer > div {
+    margin-bottom: var(--fs-lg);
+  }
+}
+
+@include mixins.media-landscape {
+  footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1;
+    min-height: 33dvh;
+  }
+
+  footer > div {
+    max-width: 25dvw;
+  }
+}
+
+footer {
+  background-color: var(--color-dark);
+  color: var(--color-light);
+}
+
+footer > div > h2,
+footer > div > p {
+  margin-bottom: var(--fs-lg);
+}

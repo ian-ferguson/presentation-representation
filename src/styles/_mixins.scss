@@ -1,0 +1,13 @@
+// The mixins can be defined in some shared file
+@mixin media-portrait {
+    @media screen and (max-aspect-ratio: 11/10),
+      (aspect-ratio: 11/10),
+      (hover: none) {
+      @content;
+    }
+  }
+  @mixin media-landscape {
+    @media screen and (min-aspect-ratio: 11/10) {
+      @content;
+    }
+  }

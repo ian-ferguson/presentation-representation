@@ -1,0 +1,35 @@
+/*
+
+HEADER LAYOUT
+
+*/
+
+nav {
+  position: fixed;
+  top: var(--fs-lg);
+  right: var(--fs-lg);
+  z-index: var(--zoverlay);
+  width: var(--fs-xxxl);
+  height: var(--fs-xxxl);
+}
+
+nav svg text {
+  font-size: 0.5rem;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+nav svg {
+  animation: spin 20s infinite;
+  animation-timing-function: linear;
+}
+
+@keyframes spin {
+  0% {
+    rtransform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+

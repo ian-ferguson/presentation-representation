@@ -1,0 +1,23 @@
+{% extends "layouts/_base.njk" %}
+{% block content %}
+    
+    {{ content | safe }}
+
+    
+    <div class="section list">
+        <ul>
+            {% for designer in collections.designers %}
+            <li>
+                <a href="{{designer.url}}">
+                    <span>{{ designer.data.studentFirstName}} {{designer.data.studentLastName}}</span>
+                </a>
+                <div class="popover"><img
+                src="{{ designer.data.previewImage }}"
+                alt="{{ designer.data.studentLastName }}"
+                loading="lazy"
+                /></div>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+{% endblock %}
