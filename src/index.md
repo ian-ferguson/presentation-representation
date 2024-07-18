@@ -1,6 +1,7 @@
 ---
 title: "Presentation + Representation"
 layout: 'layouts/home.njk'
+eleventyExcludeFromCollections: true
 ---
 
 

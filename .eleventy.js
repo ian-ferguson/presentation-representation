@@ -6,8 +6,12 @@ module.exports = config => {
   // Returns work items, sorted by display order
   config.addCollection('designers', collection => {
     return collection
-      .getFilteredByGlob('./src/designers/*.md')
-      .sort((a, b) => (Number(a.data.studentLastName) > Number(b.data.studentLastName) ? 1 : -1));
+      .getFilteredByGlob('./src/*.md')
+      .sort((a, b) => {
+        if (a.data.studentFirstName > b.data.studentFirstName) return 1;
+        else if (a.data.studentFirstName < b.data.studentFirstName) return -1;
+        else return 0;
+      });
   });
   // Tell 11ty to use the .eleventyignore and ignore our .gitignore file
   config.setUseGitIgnore(false);
