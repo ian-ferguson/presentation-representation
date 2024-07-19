@@ -183,7 +183,6 @@ a:hover p:last-of-type:after {
   top: calc(-25dvh + var(--fs-xxl) / 2);
   left: calc(25dvw - var(--fs-xxl));
   z-index: 0;
-  background-color: green;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -194,7 +193,7 @@ a:hover p:last-of-type:after {
 .popover img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .section.list li:hover .popover {

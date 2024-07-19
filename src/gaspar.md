@@ -3,10 +3,10 @@ title: "Journey"
 layout: 'layouts/designer.njk'
 studentFirstName: "Petra"
 studentLastName: "Gaspar"
-studentContact: "petra udk email"
-studentWebsite: "@petragaspar_productdesign"
+studentContact: "p.gaspar@udk-berlin.de"
+studentInsta: "petragaspar_productdesign"
 previewImage: "/img/gaspar/petra-5.jpg"
-projectScan: "https://prod.spline.design/RYjNIQPjy0iamPcC/scene.splinecode"
+projectScan: ""
 projectDescription: "JOURNEY is a modular display system designed for creating rounded-shaped
 structures in exhibition spaces. The system features both curved and
 straight rail units, allowing for the formation of various shapes. The O

@@ -3,8 +3,8 @@ title: "Reflective Realms"
 layout: 'layouts/designer.njk'
 studentFirstName: "Theresa"
 studentLastName: "Glasauer"
-studentContact: "@theresaglasauer"
-studentWebsite: "www.theresa.com"
+studentContact: ""
+studentInsta: "theresaglasauer"
 previewImage: "/img/glasauer/picture1.jpg"
 projectScan: "https://prod.spline.design/A8nmDI86A8Rr05Lj/scene.splinecode"
 projectDescription: "The REFLECTIVE REALMS is amodular display system offers a sophisticated solution for creating dynamic and versatile

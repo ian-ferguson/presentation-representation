@@ -13,15 +13,29 @@
         <p>{{projectDescription | safe}}</p>
       </div>
       <div class="student-contact">
-        <a href="#">{{studentWebsite | safe}}</a><br />
-        <a mailto="#">{{studentContact | safe}}</a>
+        {% if studentInsta %}
+          <a href={{"https://www.instagram.com/" + studentInsta | safe}}>@{{studentInsta | safe}}</a><br />
+        {% endif %}
+        {% if studentWebsite %}
+          <a href={{studentWebsite | safe}}>{{studentWebsite | safe}}</a><br />
+        {% endif %}
+        {% if studentContact %}
+          <a href={{"mailto:"+ studentContact | safe}}>{{studentContact | safe}}</a><br />
+        {% endif %}
       </div>
     </div>
   </div>
   
   <div class="section splash">
-    <script type="module" src="https://unpkg.com/@splinetool/viewer@1.8.9/build/spline-viewer.js" async></script>
+     {% if projectScan %}
+    <script type="module" src="https://unpkg.com/@splinetool/viewer@1.9.1/build/spline-viewer.js" async></script>
     <spline-viewer loading-anim-type="spinner-small-light" url={{projectScan}}></spline-viewer>
+    {% endif %}
+     {% if not projectScan %}
+      <div class="span-2">
+        <img src={{previewImage | safe}}>
+      </div>
+     {% endif %}
   </div>
   
   <div class="section material">

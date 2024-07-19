@@ -3,10 +3,9 @@ title: "Just Frame It"
 layout: 'layouts/designer.njk'
 studentFirstName: "Luisa"
 studentLastName: "Beutel"
-studentContact: "luisa@luisa.com"
-studentWebsite: "www.luisa.com"
+studentContact: "L.beutel@udk-berlin.de"
 previewImage: "/img/beutel/luisa1.jpg"
-projectScan: "https://prod.spline.design/gWJHawHQFLjqRw8H/scene.splinecode"
+projectScan: "https://prod.spline.design/ddvCLNrxjjDyvjwL/scene.splinecode"
 projectDescription: "Just Frame It ist ein mobiles Ausstellungssystem. Durch die Konstruktion aus Holzleisten, Dübeln und Gummiringen ist es beliebig einsetz- und erweiterbar. Die Basis des Systems bilden die vorhandenen Gegebenheiten: Wände, Böden und eventuell bereitstehende Podeste und andere Möbel werden genutzt, um die Objekte zu platzieren. Just Frame It gibt den Objekten einen passenden Rahmen, wodurch die Aufmerksamkeit der Besucher*innen klar gelenkt und die auszustellenden Objekte deutlich von der Umgebung abgegrenzt werden, Sollte Just Frame It einmal ausgedient haben, ist es leicht zu recyclen."
 ---
 

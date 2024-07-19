@@ -3,7 +3,7 @@ title: "Mobile Exhibition System"
 layout: 'layouts/designer.njk'
 studentFirstName: "Anton"
 studentLastName: "Hermes"
-studentContact: "udk email antoinehermes"
+studentContact: "a.hermes@udk-berlin.de"
 studentWebsite: "www.wdorf.com"
 previewImage: "img/hermes/hermes1.jpg"
 projectScan: "https://prod.spline.design/oURJ8XgsXhrp7ywQ/scene.splinecode"

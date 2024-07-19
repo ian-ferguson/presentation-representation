@@ -1,26 +1,37 @@
 ---
-title: "Anton's Project Title"
+title: "Tria"
 layout: 'layouts/designer.njk'
 studentFirstName: "Ines Michelis &"
 studentLastName: "Marit Rühe"
-studentContact: "ines@ines.com"
-studentWebsite: "marit@marit.com"
-previewImage: "https://images.unsplash.com/photo-1555529240-d2ab39b74716?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-projectScan: "https://prod.spline.design/RYjNIQPjy0iamPcC/scene.splinecode"
-projectDescription: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mattis, dolor vitae ultrices vestibulum, velit massa euismod felis, a accumsan neque nunc a metus. Nullam aliquam orci luctus ligula laoreet, a efficitur felis interdum. Nam eu cursus massa. Ut luctus tempus ipsum eu finibus. Nulla auctor porttitor lacus at efficitur. Nunc dapibus orci et scelerisque volutpat. Cras molestie, quam at viverra luctus, leo neque hendrerit lorem, ac viverra sapien mi sed mi"
+studentContact: "i.michelis@udk-berlin.de"
+studentWebsite: "m.ruehe@udk-berlin.de"
+studentInsta: "ines.michelis"
+previewImage: "/img/michelis-ruehe/inesMarit1.png"
+projectScan: "https://prod.spline.design/gzcUW158aqYMeEnU/scene.splinecode"
+projectDescription: "Tria is a modular wall system where the floor plan can be freely decided and changeable fabric rolls. The system is easy to assemble and dismantle. It consists of three main parts, which can be stowed away in a small space. Tria is a system with as few limits as possible, allowing for creativity in building rooms and fully immersing your exhibition, even when showcasing multiple objects."
 ---
 
   <div class="span-2">
-    <video controls muted loop>
-      <source src="https://assets.codepen.io/184881/udksample.webm" type="video/webm">
-    </video>
+    <img src="/img/michelis-ruehe/inesMarit1.png">
   </div>
-  <div class="span-1">
-    <img src="https://images.unsplash.com/photo-1555529240-d2ab39b74716?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+   <div class="span-1">
+    <img src="/img/michelis-ruehe/inesMarit2.png">
   </div>
-  <div class="span-1 caption">
-    <p>This is caption for the image next to it and it can say something if you want it to
+   <div class="span-1">
+    <img src="/img/michelis-ruehe/inesMarit3.png">
   </div>
-  <div class="span-2">
-    <img src="https://images.unsplash.com/photo-1555529240-d2ab39b74716?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+   <div class="span-1">
+    <img src="/img/michelis-ruehe/inesMarit4.png">
+  </div>
+   <div class="span-1">
+    <img src="/img/michelis-ruehe/inesMarit5.png">
+  </div>
+   <div class="span-1">
+    <img src="/img/michelis-ruehe/inesMarit6.png">
+  </div>
+   <div class="span-1">
+    <img src="/img/michelis-ruehe/inesMarit7.png">
+  </div>
+   <div class="span-2">
+    <img src="/img/michelis-ruehe/inesMarit8.png">
   </div>

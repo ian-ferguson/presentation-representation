@@ -1,26 +1,27 @@
 ---
-title: "Project Title"
+title: "Arrows"
 layout: 'layouts/designer.njk'
 studentFirstName: "Ruiqi"
 studentLastName: "Huang"
-studentContact: "ruiqi@ruiqi.com"
-studentWebsite: "www.ruiqi.com"
-previewImage: "https://images.unsplash.com/photo-1555529240-d2ab39b74716?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-projectScan: "https://prod.spline.design/RYjNIQPjy0iamPcC/scene.splinecode"
-projectDescription: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mattis, dolor vitae ultrices vestibulum, velit massa euismod felis, a accumsan neque nunc a metus. Nullam aliquam orci luctus ligula laoreet, a efficitur felis interdum. Nam eu cursus massa. Ut luctus tempus ipsum eu finibus. Nulla auctor porttitor lacus at efficitur. Nunc dapibus orci et scelerisque volutpat. Cras molestie, quam at viverra luctus, leo neque hendrerit lorem, ac viverra sapien mi sed mi"
+studentContact: "ru.huang@udk-berlin.de"
+previewImage: "/img/huang/huangPreview.jpg"
+projectScan: "https://prod.spline.design/a2DcDdkWUA6LAjQP/scene.splinecode"
+projectDescription: "I designed a display system consisting of three key components. There are two types of connectors that can join iron pipes together, allowing you to create various shapes. Whether it's simple geometric forms or complex structures, these connectors offer exceptional flexibility. Additionally, there is a clip component that can securely hold paper, fabric, or wires, providing excellent flexibility as well. This display system is designed to enable users to easily construct and adjust the shape and function of the display stand, meeting a wide range of display needs."
 ---
 
   <div class="span-2">
-    <video controls muted loop>
-      <source src="https://assets.codepen.io/184881/udksample.webm" type="video/webm">
-    </video>
+    <img src="/img/huang/huang10.jpg">
   </div>
   <div class="span-1">
-    <img src="https://images.unsplash.com/photo-1555529240-d2ab39b74716?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+    <img src="/img/huang/huang3.jpg">
   </div>
-  <div class="span-1 caption">
-    <p>This is caption for the image next to it and it can say something if you want it to
+  <div class="span-1">
+    <img src="/img/huang/huang4.jpg">
   </div>
-  <div class="span-2">
-    <img src="https://images.unsplash.com/photo-1555529240-d2ab39b74716?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+  <div class="span-1">
+    <img src="/img/huang/huang5.jpg">
   </div>
+  <div class="span-1">
+    <img src="/img/huang/huang7.jpg">
+  </div>
+ 
