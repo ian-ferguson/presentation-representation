@@ -4,23 +4,30 @@ layout: 'layouts/designer.njk'
 studentFirstName: "Niklas"
 studentLastName: "Rechfelden"
 studentContact: "rechfeldenniklas@gmail.com"
-studentWebsite: "@klainstein"
-previewImage: "https://images.unsplash.com/photo-1555529240-d2ab39b74716?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-projectScan: "https://prod.spline.design/RYjNIQPjy0iamPcC/scene.splinecode"
-projectDescription: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mattis, dolor vitae ultrices vestibulum, velit massa euismod felis, a accumsan neque nunc a metus. Nullam aliquam orci luctus ligula laoreet, a efficitur felis interdum. Nam eu cursus massa. Ut luctus tempus ipsum eu finibus. Nulla auctor porttitor lacus at efficitur. Nunc dapibus orci et scelerisque volutpat. Cras molestie, quam at viverra luctus, leo neque hendrerit lorem, ac viverra sapien mi sed mi"
+studentInsta: "klainstein"
+previewImage: "/img/rechfelden/niklasPreview.jpg"
+projectScan: "https://prod.spline.design/ojY3nZ9eNFobxeLf/scene.splinecode"
+projectDescription: "Die Idee war es ein Ausstellungssystem zu gestalten, dass es ermöglicht möglichst platzsparend zu transportieren und in der Anordnung der Module flexibel ist.
+
+Dadurch, dass der Tension Table nicht mit Leim, Schrauben, etc. zusammen gehalten wird, sondern mittels Seil, erlaubt es den Trapeztisch in seine Einzelteile zerlegen zu können. Das bietet zum einem die Möglichkeit die Module platzsparend zu transportieren und zum anderem einen einfachen Austausch der Einzelteile.
+
+In der Produktion ist der Tisch einfach umzusetzen, es benötigt lediglich drei Bohrungen, zwei Nuten und die Platten müssen auf das Maß zugeschnitten werden. Auch bei den drei Stahlrohren muss jeweils ein Loch gebohrt werden. 
+
+Das Trapez macht möglich die Module in verschiedenste Räume anpassen zu können und dementsprechend auf verschiedenste Szenarien eingehen zu können und oder auch welche zu kreieren. 
+"
 ---
 
-  <div class="span-2">
+  <div class="span-1">
     <video controls muted loop>
-      <source src="https://assets.codepen.io/184881/udksample.webm" type="video/webm">
+      <source src="/img/rechfelden/tensiontable.webm" type="video/webm">
     </video>
   </div>
-  <div class="span-1">
-    <img src="https://images.unsplash.com/photo-1555529240-d2ab39b74716?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
-  </div>
-  <div class="span-1 caption">
-    <p>This is caption for the image next to it and it can say something if you want it to
+    <div class="span-1">
+    <img src="/img/rechfelden/niklas6.jpg">
   </div>
   <div class="span-2">
-    <img src="https://images.unsplash.com/photo-1555529240-d2ab39b74716?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+    <img src="/img/rechfelden/niklas5.jpg">
+  </div>
+    <div class="span-2">
+    <img src="/img/rechfelden/niklas9.jpg">
   </div>

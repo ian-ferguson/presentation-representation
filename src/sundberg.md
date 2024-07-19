@@ -3,7 +3,7 @@ title: "Frame"
 layout: 'layouts/designer.njk'
 studentFirstName: "Gustav"
 studentLastName: "Sundberg"
-studentContact: "@gusssssssssi"
+studentInsta: "gusssssssssi"
 studentWebsite: ""
 previewImage: "/img/sundberg/sundberg1.jpg"
 projectScan: "https://prod.spline.design/FZfRDP9QIs-mD9IG/scene.splinecode"
@@ -12,14 +12,9 @@ projectDescription: "Frame is a display system built on a rectangular frame with
 The system has been produced in a lacquered OSB which is a strong, lightweight and cost efficient material. Overall, Frame offers flexibility as it can easily be enlarged by attaching multiple frames to each other. The assembly is fast and effortless as all parts connect with the same type of hexagon socket head cap screw."
 ---
 
-  <div class="span-1">
+  <div class="span-2">
     <video controls muted loop>
-      <source src="/img/sundberg/sundberg_flower.webm" type="video/webm">
-    </video>
-  </div>
-    <div class="span-1">
-    <video controls muted loop>
-      <source src="/img/sundberg/sundberg_hammer.webm" type="video/webm">
+      <source src="/img/sundberg/Frame Rundgang_1.webm" type="video/webm">
     </video>
   </div>
   <div class="span-1">

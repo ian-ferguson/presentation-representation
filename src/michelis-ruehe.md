@@ -7,7 +7,7 @@ studentContact: "i.michelis@udk-berlin.de"
 studentWebsite: "m.ruehe@udk-berlin.de"
 studentInsta: "ines.michelis"
 previewImage: "/img/michelis-ruehe/inesMarit1.png"
-projectScan: "https://prod.spline.design/gzcUW158aqYMeEnU/scene.splinecode"
+projectScan: "https://prod.spline.design/3ftZxqjSfB4pZynn/scene.splinecode"
 projectDescription: "Tria is a modular wall system where the floor plan can be freely decided and changeable fabric rolls. The system is easy to assemble and dismantle. It consists of three main parts, which can be stowed away in a small space. Tria is a system with as few limits as possible, allowing for creativity in building rooms and fully immersing your exhibition, even when showcasing multiple objects."
 ---
 

@@ -4,7 +4,7 @@ layout: 'layouts/designer.njk'
 studentFirstName: "Lorenz"
 studentLastName: "Ni"
 studentContact: "l.ni@udk-berlin.de"
-studentWebsite: "@lorenz.ni"
+studentInsta: "lorenz.ni"
 previewImage: "/img/ni/lorenz1.jpg"
 projectScan: "https://prod.spline.design/1MKj7Z7mtRuNk7Rt/scene.splinecode"
 projectDescription: "OVER is an exhibition system that lets the exhibition pieces float over their context. Connected to but still elevated from it. Laser cut or bent acrylic glass gives additional opportunities for exhibitions. A hammer seems to have forcefully deformed the plate it‘s presented on.
@@ -15,16 +15,26 @@ A screw mechanism attaches the presentation plates to the frame. This way differ
 ---
 
   <div class="span-2">
-    <video controls muted loop>
-      <source src="https://assets.codepen.io/184881/udksample.webm" type="video/webm">
-    </video>
+    <img src="/img/ni/lorenz1.jpg">
   </div>
-  <div class="span-1">
-    <img src="https://images.unsplash.com/photo-1555529240-d2ab39b74716?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+ <div class="span-2">
+    <img src="/img/ni/lorenz2.jpg">
   </div>
-  <div class="span-1 caption">
-    <p>This is caption for the image next to it and it can say something if you want it to
+  
+ <div class="span-2">
+    <img src="/img/ni/lorenz3.jpg">
   </div>
-  <div class="span-2">
-    <img src="https://images.unsplash.com/photo-1555529240-d2ab39b74716?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+  
+ <div class="span-1">
+    <img src="/img/ni/lorenz5.jpg">
+  </div>
+ <div class="span-1">
+    <img src="/img/ni/lorenz6.jpg">
+  </div>
+  
+ <div class="span-2">
+    <img src="/img/ni/lorenz7.jpg">
+  </div> 
+ <div class="span-2">
+    <img src="/img/ni/lorenz4.jpg">
   </div>

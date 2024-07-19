@@ -1,18 +1,11 @@
 ---
-title: "Project Title"
+title: ""
 layout: 'layouts/designer.njk'
 studentFirstName: "David"
 studentLastName: "Korn"
-studentContact: ""
-studentWebsite: ""
+studentContact: "davidlv.korn@web.de"
+studentInsta: "doppel_kornn"
 previewImage: "/img/korn/kornPreview.jpg"
 projectScan: ""
 projectDescription: ""
 ---
-
-  <div class="span-2">
-    <video controls muted loop>
-      <source src="https://assets.codepen.io/184881/udksample.webm" type="video/webm">
-    </video>
-  </div>
-  </div>

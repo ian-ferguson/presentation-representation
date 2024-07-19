@@ -1,26 +1,28 @@
 ---
-title: "Project Title"
+title: "Grid Display System"
 layout: 'layouts/designer.njk'
 studentFirstName: "Severin"
 studentLastName: "Mörz"
-studentContact: "severin@severin.com"
-studentWebsite: "severin@severin.com"
-previewImage: "https://images.unsplash.com/photo-1555529240-d2ab39b74716?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-projectScan: "https://prod.spline.design/RYjNIQPjy0iamPcC/scene.splinecode"
-projectDescription: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mattis, dolor vitae ultrices vestibulum, velit massa euismod felis, a accumsan neque nunc a metus. Nullam aliquam orci luctus ligula laoreet, a efficitur felis interdum. Nam eu cursus massa. Ut luctus tempus ipsum eu finibus. Nulla auctor porttitor lacus at efficitur. Nunc dapibus orci et scelerisque volutpat. Cras molestie, quam at viverra luctus, leo neque hendrerit lorem, ac viverra sapien mi sed mi"
+studentContact: "s.moerz@udk-berlin.de"
+studentInsta: "studio.s.3000"
+previewImage: "/img/moerz/severinPreview.jpg"
+projectScan: "https://prod.spline.design/c5hZ3dWpgzjHpDMs/scene.splinecode"
+projectDescription: "The display system enables standardized (RAL GZ 638) cellar grids to be connected to a leg structure via a expanding connector. The focus is on a flexible arrangement, whereby the position and angularity of the legs are not defined. This makes it possible to use different grid geometries as display, hanging or storage surfaces. The tool blocks, currently accentuated in orange, make it possible to highlight exhibited objects or suspend them in the hanging system simply by snapping them into place. For this purpose, thin cords can be attached to the underside and a flexible arrangement in the hanging grid can be selected. 
+"
 ---
 
   <div class="span-2">
-    <video controls muted loop>
-      <source src="https://assets.codepen.io/184881/udksample.webm" type="video/webm">
-    </video>
+    <img src="/img/moerz/moerz1.jpg">
   </div>
+
   <div class="span-1">
-    <img src="https://images.unsplash.com/photo-1555529240-d2ab39b74716?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+    <img src="/img/moerz/moerz2.jpg">
   </div>
-  <div class="span-1 caption">
-    <p>This is caption for the image next to it and it can say something if you want it to
+
+  <div class="span-1">
+    <img src="/img/moerz/moerz3.jpg">
   </div>
+
   <div class="span-2">
-    <img src="https://images.unsplash.com/photo-1555529240-d2ab39b74716?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+    <img src="/img/moerz/moerz4.jpg">
   </div>
