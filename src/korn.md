@@ -9,3 +9,8 @@ previewImage: "/img/korn/kornPreview.jpg"
 projectScan: ""
 projectDescription: ""
 ---
+  <div class="span-2">
+    <video controls muted loop>
+      <source src="/img/korn/korn1.webm" type="video/webm">
+    </video>
+  </div>

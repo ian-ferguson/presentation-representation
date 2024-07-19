@@ -9,7 +9,16 @@ previewImage: "/img/soosaar/mariePreview.png"
 projectScan: "https://prod.spline.design/B6gA30BuyC6ITXRH/scene.splinecode"
 projectDescription: ""
 ---
-
+  <div class="span-2">
+    <video controls muted loop>
+      <source src="/img/soosaar/soosaar1.webm" type="video/webm">
+    </video>
+  </div>
+  <div class="span-2">
+    <video controls muted loop>
+      <source src="/img/soosaar/soosaar2.webm" type="video/webm">
+    </video>
+  </div>
   <div class="span-2">
     <img src="/img/soosaar/mariePreview.png">
   </div>
